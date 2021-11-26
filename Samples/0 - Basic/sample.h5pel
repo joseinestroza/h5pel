@@ -1,0 +1,27 @@
+begin "H5PEL - Language for the Generation of H5P Course Presentation"
+
+    title "H5P"
+
+    paragraph "H5P Presentations, known as <strong> Course Presentation </strong> by its English name, <em> are a type of HTML5-based presentations that allow the user to create interactive and non-interactive content using a GUI web editor for dragging of titles, text content, option questions, open questions, multimedia and others </em>."
+
+    paragraph ""
+
+    paragraph "H5P is a popular and proven medium for active learning in contemporary education according to <strong> R. Singleton and A. Charlton, “Creating H5P content for active learning”, pjtel, vol. 2, no. 1, pp. 13-14, Nov. 2019. </strong>"
+
+    new slide
+
+    subtitle "Text components supported by H5PEL v0.1.0p"
+
+    paragraph "Some of the allowed elements are:
+         <ul>
+             <li> Titles </li>
+             <li> Subtitles </li>
+             <li> Paragraphs </li>
+         </ul>
+    "
+
+    subtitle "Compatible HTML5 code"
+
+    paragraph "The presentation elements in H5PEL are compatible with HTML tags such as strong, emphasized, unordered lists, and others."
+
+end

@@ -1,0 +1,137 @@
+{
+    "presentation": {
+        "slides": [
+            {
+                "elements": [
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 6.455305615685532,
+                        "width": 93.68191721132898,
+                        "height": 88.22251008103561,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2>Title 1</h2>\n\n<p>Paragraph 1</p>\n\n<p></p>\n\n<p>Paragraph 2</p>"
+                            },
+                            "subContentId": "0lra8756-pyxk-89c9-52ql-r4jftv8nayzv",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Sin t\u00edtulo Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 6.455305615685532,
+                        "width": 93.68191721132898,
+                        "height": 88.22251008103561,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2>Title 1</h2>\n\n<h3>Subtitle 1</h3>\n\n<p></p>\n\n<p>Paragraph 1</p>\n\n<p>Paragraph 2</p>\n\n<p>Paragraph 3</p>"
+                            },
+                            "subContentId": "0lra8756-pyxk-89c9-52ql-r4jftv8nayzv",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Sin t\u00edtulo Text"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            }
+        ],
+        "keywordListEnabled": true,
+        "globalBackgroundSelector": {},
+        "keywordListAlwaysShow": false,
+        "keywordListAutoHide": false,
+        "keywordListOpacity": 90
+    },
+    "override": {
+        "activeSurface": false,
+        "hideSummarySlide": false,
+        "summarySlideSolutionButton": true,
+        "summarySlideRetryButton": true,
+        "enablePrintButton": false,
+        "social": {
+            "showFacebookShare": false,
+            "facebookShare": {
+                "url": "@currentpageurl",
+                "quote": "Yo obtuve @score de @maxScore en un trabajo en @currentpageurl."
+            },
+            "showTwitterShare": false,
+            "twitterShare": {
+                "statement": "Yo obtuve @score de @maxScore en un trabajo en @currentpageurl.",
+                "url": "@currentpageurl",
+                "hashtags": "h5p, course"
+            },
+            "showGoogleShare": false,
+            "googleShareUrl": "@currentpageurl"
+        }
+    },
+    "l10n": {
+        "slide": "Diapositiva",
+        "score": "Puntaje",
+        "yourScore": "Puntaje",
+        "maxScore": "Puntaje m\u00e1ximo",
+        "total": "Total",
+        "totalScore": "Puntuaci\u00f3n Total",
+        "showSolutions": "Mostrar soluci\u00f3n",
+        "retry": "Reintentar",
+        "exportAnswers": "Exportar com texto",
+        "hideKeywords": "Ocultar lista de palabras claves",
+        "showKeywords": "Mostrar lista de palabras claves",
+        "fullscreen": "Pantalla completa",
+        "exitFullscreen": "Salir de Pantalla completa",
+        "prevSlide": "Diapositiva previa",
+        "nextSlide": "Diapositiva siguiente",
+        "currentSlide": "Diapositiva actual",
+        "lastSlide": "Diapositiva final",
+        "solutionModeTitle": "Salir del modo de soluci\u00f3n",
+        "solutionModeText": "Modo de soluci\u00f3n",
+        "summaryMultipleTaskText": "Actividades m\u00faltiples",
+        "scoreMessage": "Obtuviste:",
+        "shareFacebook": "Compartir en Facebook",
+        "shareTwitter": "Compartir en Twitter",
+        "shareGoogle": "Compartir en Google+",
+        "summary": "Resumen",
+        "solutionsButtonTitle": "Mostrar comentarios",
+        "printTitle": "Imprimir",
+        "printIngress": "Le gustar\u00eda imprimir esta presentaci\u00f3n?",
+        "printAllSlides": "Imprimir todas las diapositivas",
+        "printCurrentSlide": "Imprimir diapositiva actual",
+        "noTitle": "Sin t\u00edtulo",
+        "accessibilitySlideNavigationExplanation": "Use flecha izquierda y derecha para cambiar diapositiva en esa direcci\u00f3n siempre que est\u00e9 seleccionado el lienzo",
+        "accessibilityCanvasLabel": "Lienzo de Presentaci\u00f3n. Use flechas izquierda y derecha para moverse entre diapositivas.",
+        "containsNotCompleted": "@slideName contiene interacci\u00f3n no completada",
+        "containsCompleted": "@slideName contiene interacci\u00f3n completada",
+        "slideCount": "Diapositiva @index de @total",
+        "containsOnlyCorrect": "@slideName solamente tiene respuestas correctas",
+        "containsIncorrectAnswers": "@slideName tiene respuestas incorrectas",
+        "shareResult": "Mostrar Resultado",
+        "accessibilityTotalScore": "Usted obtuvo @score de @maxScore puntos en total",
+        "accessibilityEnteredFullscreen": "Entr\u00f3 a pantalla completa",
+        "accessibilityExitedFullscreen": "Sali\u00f3 de pantalla completa"
+    }
+}
